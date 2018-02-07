@@ -1,5 +1,5 @@
 //
-// Copyright (C) 1998 and later, Johannes Ernst. All rights reserved. License: see package.
+//
 //
 
 package com.upon2020.undertowmappedpathresource;
